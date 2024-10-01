@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>it.gabdev</groupId>
-	<artifactId>kanban-gab</artifactId>
+	<artifactId>kanban_gab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kanban-gab</name>
 	<description>Kanban App</description>
