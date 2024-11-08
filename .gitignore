@@ -33,3 +33,4 @@ build/
 .vscode/
 
 /env.properties
+/src/main/resources/kanbangab-firebase-adminsdk-ahwo3-43922ed4f1.json
